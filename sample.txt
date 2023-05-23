@@ -1,1 +1,7 @@
+
+This is sample text file... //comment added by fartare
+
 This is sample text file... // comment added by naik
+
+
+//both changes accepted
